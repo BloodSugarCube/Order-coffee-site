@@ -1,0 +1,733 @@
+body { margin: 0px;
+       background: black;
+}
+.logo {
+	margin: 100px 50px;
+	height: 150px;
+	width: 300px;
+	background-image: url(images/caffeine_logo.png);
+	background-size: 300px;
+	background-repeat: no-repeat;
+}
+.logo_space{
+	height: 100px;
+}
+.menu-nav{
+	background-color: rgba(0,0,0,0.4);
+	padding-bottom: 100px;
+	width: 600px;
+	margin-left: 800px;
+}
+.menu-nav2{
+	margin-top: -100px;
+}
+header {
+	background: black url(images/Fon3.jpg); 
+    position: relative;
+    display: flex;
+	flex-direction: column;
+    height: 900px;
+}
+.Home {
+	margin-right: 100px;
+}
+.donec {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-top: -180px;
+	margin-left: 337px;
+}
+.button {
+	text-align: center;
+	display: block;
+	position: flex;
+	background-color: #D2B48C;
+	margin-top: 5rem;
+	margin-left: 337px;
+	width: 11rem;
+	height: 3.3rem;
+}
+.button1 {
+	text-align: center;
+	display: block;
+	position: flex;
+	background-color: #000000;
+	margin-top: -53px;
+	margin-left: 537px;
+	width: 10.5rem;
+	height: 3.3rem;
+}
+.our {
+	font-family: sans-serif;
+	margin-left: 380px;
+	margin-top: -60px;
+}
+.our1 {
+	font-family: sans-serif;
+	margin-left: 580px;
+	margin-top: -43px;
+}
+.Acaffe {
+	margin-left: -230px;
+}
+.container {
+	background: black;
+	padding: 50px;
+	margin-left: 150px;
+}
+.container .col {
+	display: inline-block;
+	width: 10%;
+	margin-right: 30px;
+	margin-bottom: 100px;
+}
+.navigation {
+    font-family: sans-serif;
+	font-size: 18px;
+    position: inline-block;
+	margin-left: 330px;
+	padding-bottom: 10px;
+	padding-top: 25px;
+}
+.theme {
+    font-family: sans-serif;
+    font-size: 88px;
+	padding: 100px;
+}
+.who {
+	font-family: sans-serif;
+	font-size: 22px;
+}
+.data {
+	font-family: sans-serif;
+	font-size: 56px;
+	margin-top: -55px;
+}
+.sed {
+	font-family: sans-serif;
+	font-size: 20px;
+	margin-top: -110px;
+}
+.hours {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: -10px;
+	margin-left: 20px;
+}
+.time {
+	font-family: sans-serif;
+	font-size: 22px;
+	padding: 20px;
+}
+.cup {
+	margin-left: 985px;
+	margin-top: -545px;
+}
+.button2 {
+	text-align: center;
+	display: block;
+	position: flex;
+	background-color: #D2B48C;
+	margin-top: -40px;
+	margin-left: 210px;
+	width: 9.7rem;
+	height: 2.7rem;
+}
+.view {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-left: 215px;
+	margin-top: -43px;
+}
+.say {
+	font-family: sans-serif;
+	font-size: 22px;
+	margin-left: 550px;
+	margin-top: 280px;
+}
+.skills {
+	font-family: sans-serif;
+	font-size: 56px;
+	text-align: center;
+	margin-top: -60px;
+}
+.tree {
+	font-family: sans-serif;
+	font-size: 66px;
+	margin-left: 45px;
+}
+.nineteen {
+	font-family: sans-serif;
+	font-size: 66px;
+	margin-left: 60px;
+}
+.twelve {
+	font-family: sans-serif;
+	font-size: 66px;
+	margin-left: 80px;
+}
+.seven {
+	font-family: sans-serif;
+	font-size: 66px;
+	margin-left: 75px;
+}
+.online {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: -50px;
+	margin-left: -30px;
+}
+.pruduct {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: -50px;
+	margin-left: -20px;
+}
+.years {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: -50px;
+	margin-left: -10px;
+}
+.happy {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: -50px;
+	margin-left: -10px;
+}
+.text1 {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: -15px;
+	margin-top: -50px;
+}
+.text2 {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: -5px;
+	margin-top: -50px;
+}
+.text3 {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 0px;
+	margin-top: -50px;
+}
+.text4 {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 10px;
+	margin-top: -50px;
+}
+.containerskill {
+	margin-left: 40px;
+	margin-top: -150px;
+}
+.block {
+	display: flex;
+	position: relative;
+	background-color: #D2B48C;
+	height: 850px;
+	width: 820px;
+	margin-left: 250px;
+	margin-top: 200px;
+}
+.menu {
+	font-family: sans-serif;
+	font-size: 22px;
+	margin-left: 350px;
+	margin-top: 80px;
+}
+.choose {
+	font-family: sans-serif;
+	font-size: 56px;
+	margin-left: -375px;
+	margin-top: 70px;
+}
+.menudrink {
+	margin-left: -670px;
+	margin-top: 80px;
+}
+.coffee {
+	font-family: sans-serif;	
+}
+.dessert {
+	font-family: sans-serif;	
+}
+.tea {
+	font-family: sans-serif;	
+}
+.mocaccino {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 280px;
+	margin-left: -680px;
+}
+.orci {
+	font-family: sans-serif;
+	margin-top: 330px;
+	margin-left: -153px;
+}
+.hot {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 380px;
+	margin-left: -500px;
+}
+.accumsan {
+	font-family: sans-serif;
+	margin-top: 430px;
+	margin-left: -245px;
+}
+.cranberry {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 480px;
+	margin-left: -470px;
+}
+.in {
+	font-family: sans-serif;
+	margin-top: 530px;
+	margin-left: -265px;
+}
+.espresso {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 580px;
+	margin-left: -520px;
+}
+.vivamus {
+	font-family: sans-serif;
+	margin-top: 630px;
+	margin-left: -130px;
+}
+.americano {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 680px;
+	margin-left: -550px;
+}
+.duis {
+	font-family: sans-serif;
+	margin-top: 730px;
+	margin-left: -155px;
+}
+.mocaccinodol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 280px;
+	margin-left: 190px;
+}
+.hotdol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 380px;
+	margin-left: -70px;
+}
+.cranberrydol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 480px;
+	margin-left: -70px;
+}
+.espressodol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 580px;
+	margin-left: -70px;
+}
+.americanodol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 680px;
+	margin-left: -70px;
+}
+.anastasia{
+	margin-left: 750px;
+}
+.search {
+	display: flex;
+	position: relative;
+	background-color: #D2B48C;
+	height: 200px;
+	width: 1205px;
+	margin-left: 180px;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+.subscribe {
+	font-family: sans-serif;
+	font-size: 34px;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.weekly {
+	font-family: sans-serif;
+	font-size: 34px;
+	margin-top: 45px;
+	margin-left: -223px;
+}
+.blockwhite {
+	display: flex;
+	position: relative;
+	background-color: white;
+	height: 70px;
+	width: 320px;
+	margin-left: 15px;
+	margin-top: 70px;
+}
+.blockblack {
+	display: flex;
+	position: relative;
+	background-color: black;
+	height: 70px;
+	width: 200px;
+	margin-top: 70px;
+}
+.email {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.btn {
+	text-decoration: none;
+	color: white;
+}
+.subscribepress {
+	font-family: sans-serif;
+	font-size: 22px;
+	margin-left: 30px;
+	margin-top: 2px;
+}
+.icon {
+	display: flex;
+	position: relative;
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	margin-top: 80px;
+	margin-left: 30px;
+}
+.twitter {
+	width: 55px;
+	height: 56px;
+	margin-left: 17px;
+	margin-top: 15px;
+}
+.icon1 {
+	display: flex;
+	position: relative;
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	margin-top: 80px;
+	margin-left: 10px;
+}
+.facebook {
+	width: 55px;
+	height: 56px;
+	margin-left: 17px;
+	margin-top: 15px;
+}
+.icon2 {
+	display: flex;
+	position: relative;
+	background-color: white;
+	height: 50px;
+	width: 50px;
+	margin-top: 80px;
+	margin-left: 10px;
+}
+.instagram {
+	width: 55px;
+	height: 56px;
+	margin-left: 17px;
+	margin-top: 15px;
+}
+.icon3 {
+	display: flex;
+	position: relative;
+	background-color: pink;
+	height: 50px;
+	width: 50px;
+	margin-top: 80px;
+	margin-left: 10px;
+}
+.googleplus {
+	width: 55px;
+	height: 56px;
+	margin-left: 17px;
+	margin-top: 15px;
+}
+.logo1 {
+	margin-left: 85px;
+	margin-top: 80px;
+}
+.congue {
+	font-family: sans-serif;
+	font-size: 16px;
+	margin-left: 85px;
+	margin-top: 40px;
+}
+.button3 {
+	text-align: center;
+	display: block;
+	position: flex;
+	background-color: #D2B48C;
+	margin-top: 50px;
+	margin-left: 85px;
+	width: 10.5rem;
+	height: 2.5rem;
+}
+.purchase {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-left: 120px;
+	margin-top: -43px;
+}
+.explore {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 520px;
+	margin-top: -280px;
+}
+.footer {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-left: 370px;
+	margin-top: -120px;
+}
+.contact {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-left: 950px;
+	margin-top: -385px;
+}
+.address {
+	font-family: sans-serif;
+	font-size: 18px;
+	margin-left: 980px;
+	margin-top: 70px;
+}
+.right {
+	font-family: sans-serif;
+	font-size: 14px;
+	margin-left: 520px;
+	margin-top: 150px;
+}
+
+
+
+.glav {
+	font-family: sans-serif;
+	margin-left: 645px;
+	margin-top: -53px;
+}
+.blocktovar {
+	display: flex;
+	position: relative;
+	background-color: #D2B48C;
+	height: 2000px;
+	width: 820px;
+	margin-left: 250px;
+	margin-top: 200px;
+}
+.choose1 {
+	font-family: sans-serif;
+	font-size: 56px;
+	margin-left: -405px;
+	margin-top: 70px;
+}
+.nachos {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 780px;
+	margin-left: -355px;
+}
+.mini {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 880px;
+	margin-left: -260px;
+}
+.ice {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 980px;
+	margin-left: -337px;
+}
+.tiramisu {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1080px;
+	margin-left: -175px;
+}
+.cheeze {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1180px;
+	margin-left: -135px;
+}
+.applepie {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1280px;
+	margin-left: -115px;
+}
+.honey {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1380px;
+	margin-left: -235px;
+}
+.mint {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1480px;
+	margin-left: -320px;
+}
+.rose {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1580px;
+	margin-left: -300px;
+}
+.straw {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1680px;
+	margin-left: -310px;
+}
+.green {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1780px;
+	margin-left: -360px;
+}
+.black {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1880px;
+	margin-left: -180px;
+}
+.nachosdol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 780px;
+	margin-left: -70px;
+}
+.minidol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 880px;
+	margin-left: -70px;
+}
+.icedol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 980px;
+	margin-left: -70px;
+}
+.tiramisudol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1080px;
+	margin-left: -70px;
+}
+.cheezedol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1180px;
+	margin-left: -70px;
+}
+.applepiedol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1280px;
+	margin-left: -70px;
+}
+.honeydol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1380px;
+	margin-left: -70px;
+}
+.mintdol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1480px;
+	margin-left: -70px;
+}
+.rosedol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1580px;
+	margin-left: -70px;
+}
+.strawdol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1680px;
+	margin-left: -70px;
+}
+.greendol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1780px;
+	margin-left: -70px;
+}
+.blackdol {
+	font-family: sans-serif;
+	font-size: 28px;
+	margin-top: 1880px;
+	margin-left: -70px;
+}
+.buttoncor {
+	text-align: center;
+	display: block;
+	position: flex;
+	background-color: #D2B48C;
+	margin-top: 5rem;
+	margin-left: 605px;
+	width: 11rem;
+	height: 3.3rem;
+}
+.corzina {
+	font-family: sans-serif;
+	margin-left: 655px;
+	margin-top: -53px;
+}
+.blockcorzina {
+	display: flex;
+	position: relative;
+	background-color: #D2B48C;
+	height: 550px;
+	width: 820px;
+	margin-left: 250px;
+	margin-top: 200px;
+}
+.menuthank {
+	font-family: sans-serif;
+	font-size: 22px;
+	margin-left: 300px;
+	margin-top: 60px;
+}
+.choosethank {
+	font-family: sans-serif;
+	font-size: 56px;
+	margin-left: -330px;
+	margin-top: 70px;
+}
+.primer {
+	color: black;
+	text-align: center;
+	margin-top: 300px;
+	margin-left: -450px;
+}
+.space_catalog{
+	margin: 25px;
+	width: 1530px;
+	height: 875px;
+	background-color: rgba(0,0,0,0.9);
+}
